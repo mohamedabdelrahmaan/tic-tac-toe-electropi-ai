@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-
+- This project is a submission for electropi.ai online academy.
 This project implements a command-line version of the classic Tic Tac Toe game in Python.
 
 ## How to Play
@@ -16,7 +16,7 @@ This project implements a command-line version of the classic Tic Tac Toe game i
 ## Requirements
 
 - Python 3.x
-- This project is a submission for electropi.ai online academy.
+
 
 
 ## Contributing
