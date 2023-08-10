@@ -5,7 +5,7 @@ This project implements a command-line version of the classic Tic Tac Toe game i
 ## How to Play
 
 1. Clone or download the repository.
-2. Run the `tic_tac_toe.py` file using Python 3.
+2. Run the `Tic Tac Toe Mohamed abdelrahman.ipynb` file using Python 3.
 3. Follow the on-screen instructions to play the game.
 4. Input your moves as prompted.
 
